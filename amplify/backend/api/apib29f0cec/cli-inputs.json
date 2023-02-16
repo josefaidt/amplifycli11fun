@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/list-todos": {
+      "name": "/list-todos",
+      "lambdaFunction": "amplifycli11fun9873267a",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

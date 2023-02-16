@@ -1,0 +1,47 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifycli11fun-dev-151044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-amplifycli11fun-dev-151044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-amplifycli11fun-dev-151044-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifycli11fun-dev-151044-deployment",
+      "UnauthRoleName": "amplify-amplifycli11fun-dev-151044-unauthRole",
+      "StackName": "amplify-amplifycli11fun-dev-151044",
+      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-amplifycli11fun-dev-151044/24fe5310-ae4f-11ed-a400-0e0b13b7320d",
+      "AmplifyAppId": "d3rod1hv4nnz8m"
+    },
+    "categories": {
+      "function": {
+        "amplifycli11funad30c923": {
+          "myvar": "myvalue",
+          "deploymentBucketName": "amplify-amplifycli11fun-dev-151044-deployment",
+          "s3Key": "amplify-builds/amplifycli11funad30c923-6e347154497476733969-build.zip"
+        },
+        "amplifycli11fun9873267a": {
+          "deploymentBucketName": "amplify-amplifycli11fun-dev-151044-deployment",
+          "s3Key": "amplify-builds/amplifycli11fun9873267a-4c576a75554137475872-build.zip"
+        }
+      },
+      "auth": {
+        "amplifycli11fun4cfb9b40": {
+          "userPoolId": "us-east-1_URv06JN56",
+          "userPoolName": "1007014d5674a_userpool_14d5674a-next",
+          "webClientId": "n8t8fqjkojrvko0q6756lv9r8",
+          "nativeClientId": "3lprqk08pd79nvm5p13ftpeaug",
+          "identityPoolId": "us-east-1:18e48aa8-33a3-4e27-9ada-ce053d3016e0",
+          "identityPoolName": "1007014d5674a_identitypool_14d5674a__next",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::814763596509:role/amplify-10070-next-133842-authRole",
+          "authRoleName": "amplify-10070-next-133842-authRole",
+          "unauthRoleArn": "arn:aws:iam::814763596509:role/amplify-10070-next-133842-unauthRole",
+          "unauthRoleName": "amplify-10070-next-133842-unauthRole"
+        }
+      },
+      "api": {
+        "amplifycli11fun": {},
+        "apib29f0cec": {}
+      }
+    }
+  }
+}
