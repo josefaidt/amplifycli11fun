@@ -49,5 +49,56 @@
         }
       }
     }
+  },
+  "next": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifycli11fun-next-162350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-amplifycli11fun-next-162350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-amplifycli11fun-next-162350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifycli11fun-next-162350-deployment",
+      "UnauthRoleName": "amplify-amplifycli11fun-next-162350-unauthRole",
+      "StackName": "amplify-amplifycli11fun-next-162350",
+      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-amplifycli11fun-next-162350/5b305550-ae59-11ed-ba61-12cc1b6777a1",
+      "AmplifyAppId": "d1f6m8i4k4z8vu"
+    },
+    "categories": {
+      "auth": {
+        "amplifycli11fun4cfb9b40": {
+          "userPoolId": "us-east-1_URv06JN56",
+          "userPoolName": "1007014d5674a_userpool_14d5674a-next",
+          "webClientId": "n8t8fqjkojrvko0q6756lv9r8",
+          "nativeClientId": "3lprqk08pd79nvm5p13ftpeaug",
+          "identityPoolId": "us-east-1:18e48aa8-33a3-4e27-9ada-ce053d3016e0",
+          "identityPoolName": "1007014d5674a_identitypool_14d5674a__next",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::814763596509:role/amplify-10070-next-133842-authRole",
+          "authRoleName": "amplify-10070-next-133842-authRole",
+          "unauthRoleArn": "arn:aws:iam::814763596509:role/amplify-10070-next-133842-unauthRole",
+          "unauthRoleName": "amplify-10070-next-133842-unauthRole"
+        }
+      },
+      "function": {
+        "amplifycli11fun9873267a": {
+          "deploymentBucketName": "amplify-amplifycli11fun-next-162350-deployment",
+          "s3Key": "amplify-builds/amplifycli11fun9873267a-4c576a75554137475872-build.zip"
+        },
+        "amplifycli11funad30c923": {
+          "myvar": "myvalue",
+          "deploymentBucketName": "amplify-amplifycli11fun-next-162350-deployment",
+          "s3Key": "amplify-builds/amplifycli11funad30c923-6e347154497476733969-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1f6m8i4k4z8vu",
+          "type": "cicd"
+        }
+      },
+      "api": {
+        "amplifycli11fun": {},
+        "apib29f0cec": {}
+      }
+    }
   }
 }
